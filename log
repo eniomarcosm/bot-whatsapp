@@ -1,0 +1,5 @@
+Error: Could not find expected browser (chrome) locally. Run `npm install` to download the correct Chromium revision (982053).
+    at ChromeLauncher.launch (/run/media/enio/Enio/Projects/Mach/Bot/base-wweb-memory/node_modules/puppeteer/lib/cjs/puppeteer/node/Launcher.js:105:23)
+    at PuppeteerNode.launch (/run/media/enio/Enio/Projects/Mach/Bot/base-wweb-memory/node_modules/puppeteer/lib/cjs/puppeteer/node/Puppeteer.js:125:31)
+    at Client.initialize (/run/media/enio/Enio/Projects/Mach/Bot/base-wweb-memory/node_modules/whatsapp-web.js/src/Client.js:100:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
